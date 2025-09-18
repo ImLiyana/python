@@ -1,0 +1,9 @@
+a1=int(input("enter mark of ss"))
+a2=int(input("enter mark of hindi"))
+a3=int(input("enter mark of maths"))
+a4=int(input("enter mark of eng"))
+a5=int(input("enter mark of mala"))
+t=a1+a2+a3+a4+a5
+p=t/500*100
+print("totalmark =",t)
+print("percentage=",p)
